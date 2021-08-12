@@ -10,5 +10,6 @@ Uses the following Python libraries -
 
 Linear Regression model is used to prediction of the revenue of a movie
 
+![WhatsApp Image 2021-08-12 at 19 28 57](https://user-images.githubusercontent.com/56463608/129210206-653ce86d-5fb6-4215-9223-383a8695421c.jpeg)
 
 
